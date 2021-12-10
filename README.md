@@ -5,7 +5,11 @@ Boilerplate from <code>wasm-pack-template</code> using <a href="https://github.c
 ## Setup
 <code>
 git clone https://github.com/olafsm/wasm_website.git
+
 cd www
+
 npm install
+
 npm run dev
+
 </code>

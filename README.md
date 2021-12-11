@@ -1,5 +1,5 @@
 <centered>
-<h2>Learning wasm & rust</h2>
+<h2>Small learning project</h2>
 Some 2d/3d graphics & animations using WebGL and rust wasm
 </centered>
 
